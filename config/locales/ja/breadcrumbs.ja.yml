@@ -1,0 +1,25 @@
+ja:
+  breadcrumbs:
+    home: "ホーム"
+    centers: "センター"
+    schools: "家元"
+    subjects: "講座"
+    lessons: "レッスン"
+    rooms: "ルーム"
+    teachers: "講師"
+    about_aidtower: "About"
+    purchase_guide: "購入ガイド"
+    products: "Products"
+    how_to: "How to"
+    the_aidtower: "The Aidtower"
+    service_intro: "Service Intro"
+    enjoy_aidtower: "Enjoy Aidtower"
+    privacy_policy: "プライバシーポリシー"
+    user_agent: "User Agent"
+    change_password: "パスワード変更"
+    edit_profile: "プロフィール編集"
+    dashboard:
+      root: "マイページ"
+    action:
+      new: "新規"
+      edit: "編集"

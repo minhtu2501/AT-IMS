@@ -1,0 +1,64 @@
+# Additional translations at https://github.com/plataformatec/devise/wiki/I18n
+
+ja:
+  auth:
+    registrations:
+      edit:
+        submit: パスワードを変更する
+  devise:
+    confirmations:
+      confirmed: "メールアドレスの確認が完了しました。"
+      send_instructions: 数分でメールアドレス確認方法が記載されたメールが届きます。"
+      send_paranoid_instructions: "メールアドレスがデータベースに存在する場合、数分でメールアドレスを確認する手順の記載されたメールが届きます。"
+    failure:
+      already_authenticated: "既にログインされています。"
+      inactive: "あなたのアカウントはまだご利用可能ではありません。"
+      invalid: "メールアドレスもしくはパスワードは正しくありません。"
+      locked: "あなたのアカウントは凍結されています。"
+      last_attempt: "もう一度間違えるとアカウントがロックされます。"
+      not_found_in_database: " メールアドレスもしくはパスワードが正しくありません。"
+      timeout: "Yセッション期限が切れています。続けてご利用になる際には、再度ログインしてください。"
+      unauthenticated: "続けてご利用になる前にログインもしくは登録が必要です。"
+      unconfirmed: "続けてご利用になる前にメールアドレスを確認いただく必要があります。"
+    mailer:
+      confirmation_instructions:
+        subject: "確認方法"
+      reset_password_instructions:
+        subject: "パスワードのリセット方法"
+      unlock_instructions:
+        subject: "再開方法"
+    omniauth_callbacks:
+      failure: "\"%{reason}\"のため認証に失敗しました。"
+      success: "認証に成功しました"
+    passwords:
+      no_token: "You can't access this page without coming from a password reset email. If you do come from a password reset email, please make sure you used the full URL provided."
+      send_instructions: "数分でパスワードをリセットする方法を記載したメールが届きます。"
+      send_paranoid_instructions: "メールアドレスがデータベースに存在する場合、数分であなたのメールアドレスにパスワード修正用リンクが届きます。"
+      updated: "あなたのパスワードは正常に変更されました。ログインされています。"
+      updated_not_active: "パスワードが正常に変更されました。"
+    registrations:
+      destroyed: "アカウントが正常に消去されました。またのご利用をお待ちしています！"
+      signed_up: "登録が完了しました。"
+      signed_up_but_inactive: "登録が完了しました。あなたのアカウントはご利用可能とはなっておりませんので、ログインはできません。"
+      signed_up_but_locked: "登録が完了しました。あなたのアカウントは凍結されていますので、ログインはできません。"
+      signed_up_but_unconfirmed: "あなたのメールアドレスに確認用メッセージが送信されました。手順に従って、アカウントをご利用開始ください。"
+      update_needs_confirmation: アカウントの更新に成功しました。新しいeメールアドレスを認証する必要がございます。メールを確認して新しいメールアドレス確認URLから認証してください。"
+      updated: パスワードの変更に成功しました。
+    sessions:
+      signed_in: "ログインに成功しました。"
+      signed_out: ログアウトに成功しました。
+      already_signed_out: ログアウトしています。
+    unlocks:
+      send_instructions: 数分後にアカウントの再開方法の手順のメールをお送りいたします。
+      send_paranoid_instructions: あなたのアカウントが存在していれば、数分後にアカウントの再開方法の手順のメールをお送りいたします。"
+      unlocked: アカウントの再開に成功しました。ログインして引き続きご利用ください。
+  errors:
+    messages:
+      already_confirmed: すでに確認済みです。もう一度ログインしてみてください。
+      confirmation_period_expired: "%{reason}の期間内に確認する必要がありました。もう一度リクエストしてください。"
+      expired: 期限切れです。リクエストしてください。
+      not_found: が見つかりません。
+      not_locked: ロックされていません。
+      not_saved:
+        one: "エラーが起きたため%{resource}は保存されませんでした。"
+        other: "エラーが発生しました。"

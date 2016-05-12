@@ -1,0 +1,65 @@
+en:
+  dashboard:
+    header:
+      lessons: Lesson
+      teachers: Tutor
+      tools: Tool
+    lessons:
+      index:
+        title: "List my lesson"
+        create: "Create new lessons"
+        assign_lesson_for_center: "Assign new lesson for center"
+      create:
+        create_success: "Lessons was successfully created"
+      new:
+        create_new: "Create new lesson"
+        assign_lesson: "Asign new lesson for center"
+        type: "Type lesson"
+        video: "Video"
+        meeting: "Meeting"
+        description: "Description"
+        photo: "Photo"
+        category: "Category"
+        title: "Title"
+        submit: Create lesson
+        placeholder_title: ex)Lessons to make a cute dried flower bouquet with the wildflowers easily
+        placeholder_des: "例)In this lesson, you will be able to make a cute dry flower bouquet easily using the wildflowers! Even beginners can make one easily, so please join us"
+        duration: "Duration (minutes)"
+        placeholder_duration: "Enter duration"
+        price: "Price"
+        placeholder_price: "Enter price"
+      show:
+        create: "Create new room"
+    rooms:
+      index:
+        create: "Create new room"
+      create:
+        create_success: "Room was successfully created"
+      new:
+        start_time: "Start time"
+        end_time: "End time"
+        submit: "Submit"
+      show:
+        join_room: "Request join room"
+        number_user_request: "Number user request"
+      request_join_room:
+        request_ok: "Send request ok, please wail accept"
+        request_not_ok: "Send request not ok"
+        request_exits: "Exits you request"
+        request_failed: "Failed: room full"
+    profile:
+      edit:
+        update: "Update user"
+    centers:
+      index:
+        title: List my centers
+    password:
+      edit:
+      submit: "Change my password"
+    credit_cards:
+      register:
+        title: "Credit card info"
+        card_number: Credit card number
+        expiration: Expiration (MM/YY)
+
+

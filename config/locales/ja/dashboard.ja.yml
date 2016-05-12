@@ -1,0 +1,87 @@
+ja:
+  dashboard:
+    header:
+      lessons: "レッスン"
+      teachers: "講師"
+      tools: "ツール"
+    lessons:
+      index:
+        title: 個別指導レッスン一覧
+        create: レッスンを作成する
+        assign_lesson_for_center: センターに新しいレッスンを割り当てる
+      create:
+        create_success: レッスンの作成に成功しました
+      new:
+        create_new: レッスンを作成する
+        assign_lesson: センターに新しいレッスンを割り当てる
+        type: レッスン形式
+        video: "ビデオ"
+        meeting: "ウェブストリーミング"
+        description: 概要
+        photo: 写真
+        category: カテゴリー
+        title: タイトル
+        submit: "レッスンを作成する"
+        placeholder_title: "例)野花を使って簡単にかわいいドライフラワーブーケを作るレッスン"
+        placeholder_des: "例)このレッスンでは、野花を使って簡単にかわいいドライフラワーブーケを作ることができます！初めての方でも、簡単に作ることが出来るので、是非参加してくださいね"
+        duration: 期間 (分)
+        placeholder_duration: 期間入力
+        price: "価格(円)"
+        placeholder_price: 金額入力
+      show:
+        create: 新しいルームを作成する
+      lesson:
+        btn_cancle_lesson: "キャンセルする"
+        go_to_lesson: "受講ページへ"
+    subjects:
+      index:
+        title: "担当している講座一覧(講師用)"
+        streaming: ストリーミング講座一覧
+        video: 購入済みの動画一覧
+      show:
+        video_title: ビデオ名
+      subject:
+        delete_video: "動画レッスンを削除する"
+        start_video: "動画レッスンを見る"
+    rooms:
+      index:
+        create: 新しいルームを作成する
+      create:
+        create_success: ルームが作成できました。
+      new:
+        start_time: 開始時間
+        end_time: 終了時間
+        submit: 堤出
+      show:
+        join_room: ルームへの参加リクエスト
+        number_user_request: ユーザーのリクエスト数
+      request_join_room:
+        request_ok: リクエストの送信に成功しました。承認されるのを少々お待ちください。
+        request_not_ok: リクエストの送信に失敗しました。
+        request_exits: 退席リクエスト
+        request_failed: 失敗しました。ルームが満席です。
+    profile:
+      edit:
+        title: プロフィール編集
+        update: ユーザー更新
+    schools:
+      index:
+        title: 所属する家元一覧 (講師用)
+    password:
+      edit:
+        title: パスワードの変更
+        submit: パスワードを変更する
+    lesson_histories:
+      index:
+        title: レッスン履歴
+    credit_cards:
+      register:
+        title: "会計情報(クレジット登録)"
+        card_number: クレジットカード番号
+        expiration: 満期 (MM月/YY年)
+        submit: クレジットカードを登録する
+      payment_histories:
+        title: "クレジットカード"
+    messages:
+      index:
+        title: "メッセージ履歴"

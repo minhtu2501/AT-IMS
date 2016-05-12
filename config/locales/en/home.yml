@@ -1,0 +1,30 @@
+en:
+  home:
+    index:
+      aidtower: 'AIDTOWER'
+      into_web: Teachers always stand by me.
+      login: Log in
+      dashboard: 'Dashboard'
+      or: or
+      signup: Sign up for free
+      signup_with_facebook: Sign up with facebook
+
+      title_page: You can improve various skills.
+      desc_page: You can have a lot of lessons in AIDTOWER. Lets find a good lesson for you to improve your skills.'
+      current_num_teacher: Number of tutors
+      current_num_lesson: Number of lessons
+      current_num_user: Number of users
+      people_teacher: Other tutors
+      people_user: Other users
+
+      latest_lesson: Latest lessons
+      see_more_lesson: See more lessons
+
+      title_recruit_tutor: Recruiting for the tutors who will have a lesson! 
+      desc_recruit_tutor: We want the tutors who will share your knowledge and experience and will have a lesson in AIDTOWER.'
+      see_more_recruit_tutor: See more details
+
+      popular_lesson: Search for popular lessons
+      see_more_popular_lesson: See more popular lessons
+
+      let_start: Lets start!

@@ -1,0 +1,41 @@
+en:
+  activerecord:
+    models:
+      user: "User"
+      student: "Student"
+      tutor: "Tutor"
+      school: "School"
+      lesson: "Lesson"
+
+    attributes:
+      school:
+        id: "ID"
+        name: "Name"
+        status: "Status"
+        description: "description"
+        slogan: "slogan"
+        background_image: "background image"
+        logo: "logo"
+        division_ratio: "Division ratio"
+      category:
+        title: "Name"
+      user:
+        email: "email"
+        name: "name"
+        user_name: "username"
+        avatar: "avatar"
+        background_image: "background image"
+        password: "password"
+        password_confirmation: 'Password Confirmation'
+      school_admin:
+        email: "email"
+        school_name: "school"
+        password: 'password'
+        password_confirmation: 'Password Confirmation'
+      lesson:
+        subject_name: "Subject name"
+        school_name: "School name"
+        start_time: "start time"
+        end_time: "end time"
+      credit_card:
+        security_code: "Security code"

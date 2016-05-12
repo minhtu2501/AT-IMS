@@ -1,0 +1,121 @@
+en:
+  general:
+    delete_confirm: "Are you sure delete this school?"
+    edit: "Edit"
+    update: "Update"
+    delete: "Delete"
+    action: "Action"
+    center: "Center"
+    school: "School"
+    subject: "Subject"
+    tool: "Tool"
+    select: "Select"
+    coming_soon: "We are coming soon"
+    hello: "Hello world"
+    email: "Email"
+    placeholder_email: Please input the mail adress.
+    password: "Password"
+    placeholder_password: Please input the password.
+    current_password: "Current password"
+    confirm_password: “Confirm the password”
+    placeholder_confirm_password: Please input the correct password again
+    register_for_free: Register for free
+    remember_me: Save the password
+    already_account: Do you have an account already?
+    forget_password: Do you forget the password?
+    signin: "Sign in"
+    signout: "Sign out"
+    signup: "Sign up"
+    send: "Send"
+    to_login: "Login"
+    login: "Login"
+    profile: "Profile"
+    list_schools: "List Schools"
+    list_lessons: "List Lessons"
+    list_rooms: "List Rooms"
+    name: "Name"
+    school_name: "School name"
+    status: "Status"
+    category: "Category"
+    title: "Title"
+    start_time: "Start time"
+    end_time: "End time"
+    start_date: Start date
+    room: "Room"
+    lesson: "Lesson"
+    video: "Video"
+    meeting: "Web Streaming"
+    confirm_delete: "Are you sure delete this admin school?"
+    search: "Search"
+    photo: "Photo"
+    teacher: "Tutor"
+    student: "Student"
+    avatar: "Avatar"
+    next_lesson: "My Next Lesson"
+    my_lesson: "My Lessons"
+    request: "Requests"
+    show: "Show"
+    monitoring: "Monitoring"
+    parameter_setting: "Parameter setting"
+    payment_history: "Payment History"
+    logout: "Logout"
+    school_admin: "School Admins"
+    dashboard: "Dashborad"
+    dashboard_back: "Back to Dashborad"
+    submit: "Submit"
+    cancel: Cancel
+    slogan: "Slogan"
+    assign_school: "Assign for school"
+    please_choice_school: 'Please choice school'
+    assign_lesson: "Assign for lesson"
+    please_choice_lesson: 'Please choice lesson'
+    please_choice_category: Please choice category
+    edit_profile: Edit profile
+    users: Users
+    pending: Pending
+    accepted: Accepted
+    no_: No.
+    leave_room: Are you sure leave room?
+  dictionary:
+    label_month: "Month"
+    label_year: "Year"
+  date:
+    abbr_day_names:
+    - Sun
+    - Mon
+    - Tue
+    - Wed
+    - Thu
+    - Fri
+  time:
+    am: a.m.
+    formats:
+      default: "%d/%m/%Y %H:%M:%S"
+      long: "%B %d, %Y %H:%M"
+      short: "%d %b %H:%M"
+      month_day: "%m-%d (%a) - "
+      ymd: "%Y-%m-%d"
+    pm: p.m.
+  errors:
+    format: "%{attribute} %{message}"
+    messages:
+      invalid_time_in_room: "is invalid! you have had lessons in this time!"
+      not_choose_lesson: "Not choose lesson"
+      time_not_blank: "Time not blank"
+      unauthorized: You are unauthorized.
+      blank_user_pass: Username and password are blank.
+      wrong_user_pass: Username or password are not correct.
+      start_time_not_blank: "Start time can be blank"
+      invalid_division_ratio: "数値が間違ったそうです。１００%になるべきです"
+      limited_session: "Limited session ! Only two access devise one time"
+  time_lesson_invalid: "Lesson time not ok, lesson start at %{before}, end at %{after}"
+  room_not_in_school: "This room not in school"
+  not_request_to_room: "Not request this room"
+  teacher_not_accepted: "Teacher not accept you"
+  un_request_room_success_free: "Unrequest success, fee: Free"
+  un_request_room_success_not_free: "Unrequest success, fee: Not free"
+  un_request_room_not_success: "Unrequest not success"
+  choice_school: 'Please choice school'
+  choice_lesson: 'Please choice lesson'
+  asiign_for_lesson: Asiign For Lesson
+  asiign_for_school: Asiign For School

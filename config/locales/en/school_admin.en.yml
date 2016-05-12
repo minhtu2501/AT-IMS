@@ -1,0 +1,36 @@
+en:
+  school_admin:
+    list_teacher: 'List teachers'
+    list_classrooms: 'List class rooms'
+    rooms:
+      index:
+        lesson: 'Lesson'
+        start_time: 'Start time'
+        end_time: 'End time'
+    home:
+      index:
+        title: "Dash board Admin Center"
+        center_name: 'Center name:'
+        status_center: 'Status center:'
+        no_center_available: 'No center available'
+    center:
+      parameter_setting:
+        submit: "Submit"
+        parameter_label: "Parameter"
+        default_setting_label: "Default Setting"
+        actual_setting_label: "Actual Setting"
+        devision_ratio_label: "Income devision ratio"
+        aidtower_label: "AIDTOWER"
+        payment_fee_label: "Payment fee"
+        classroom_owner_label: "Classroom owner"
+        tutors_label: "Tutors"
+        introducer_label: "Introducer"
+        room_entry_time: "Room entry time (minute)"
+        lesson_cancellation_period: "Lesson cancellation period (hour)"
+        lesson_length: "Lesson length (minute)"
+        lesson_price_hour: "Lesson price/hour"
+      form:
+        logo: Logo
+        background_image: Background image
+        slogan: Slogan
+        desc: Description

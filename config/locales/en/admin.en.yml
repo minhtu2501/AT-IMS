@@ -1,0 +1,42 @@
+en:
+  admin:
+    home:
+      index:
+        title: 'Dash board Super Admin'
+    school_admins:
+      list_school_admins: 'List school admin'
+      index:
+        create_school_admins: 'Create school admin'
+      create:
+        success: 'School admin was successfully created.'
+        failed: 'School admin failed.'
+      update:
+        success: 'Update school admin success'
+      destroy:
+        success: 'Destroy school admin success'
+        failed: 'Destroy school admin not success'
+      form:
+        school: "Assign for school"
+        choice_school: 'Please choice school'
+      new:
+        school: 'School'
+    schools:
+      list_school: 'List schools'
+      index:
+        create_school: 'Create school'
+      form:
+        logo: 'Logo'
+        background_image: 'Background image'
+        slogan: 'Slogan'
+        desc: 'Description'
+        open: "Open"
+        closed: "Closed"
+      school:
+        open: "Open"
+        closed: "Closed"
+    categories:
+      index:
+        create_category: "Create Category"
+        create_success: "Category was successfully created."
+        update_success: "Category was successfully updated."
+        destroy_success: "Category was successfully destroyed."

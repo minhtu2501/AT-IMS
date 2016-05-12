@@ -1,0 +1,11 @@
+ja:
+  centers:
+    index:
+      caption: あなたにぴったりのレッスンを見つけましょう
+    show:
+      title_tutor: 講師一覧
+      title_lesson: レッスン一覧について紹介します。
+      not_tutor: あなたは講師ではありません。講師になってみませんか。
+      is_tutor_accepted: 講師リクエストが承認されました。
+      is_tutor_pending: 講師リクエストの承認待ちです。
+      center_closed: あなたのセンターは閉鎖されました。

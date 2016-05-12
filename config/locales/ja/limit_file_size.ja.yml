@@ -1,0 +1,5 @@
+ja:
+  limit_video_size: "ファイルサイズは%{limit_video_size}MB以下にしてください。"
+  limit_avatar_size: "ファイルサイズは%{limit_avatar_size}MB以下にしてください。"
+  limit_photo_size: "ファイルサイズは%{limit_photo_size}MB以下にしてください。"
+  limit_background_image_size: "ファイルサイズは%{limit_background_image_size}MB以下にしてください。"

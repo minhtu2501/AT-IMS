@@ -1,0 +1,11 @@
+en:
+  centers:
+    index:
+      caption: Let’s find good lesson for you.
+    show:
+      title_tutor: Tutor list
+      title_lesson: Lesson list
+      not_tutor: You not tutor why don't you be a tutor?
+      is_tutor_accepted: You are a tutor accepted
+      is_tutor_pending: You are a tutor pending
+      center_closed: The center is closed

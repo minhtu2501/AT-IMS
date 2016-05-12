@@ -1,0 +1,26 @@
+ja:
+  notification_mailer:
+    student_cancel_request_to_lesson:
+      subject: 生徒によるレッスンキャンセルのお知らせ
+    tutor_cancel_lesson:
+      subject: 講師によるレッスンキャンセルのお知らせ
+    student_request_subject_video:
+      subject: ビデオ講座購入完了のお知らせ
+    tutor_request_to_apply_a_school:
+      subject: 講師による家元申請のお知らせ
+    tutor_cancel_request_to_apply_a_school:
+      subject: 講師による家元申請キャンセルのお知らせ
+    tutor_request_to_apply_a_subject:
+      subject: 講師による講座申請のお知らせ
+    tutor_cancel_request_to_apply_a_subject:
+      subject: 講師による講座申請キャンセルのお知らせ
+    school_owner_accepted_from_admin:
+      subject: 家元申し込みが承認されました
+    school_owner_rejected_from_admin:
+      subject: 家元申し込みが承認されました
+    school_reject_a_tutor_request:
+      subject: への講師申請
+    school_accept_a_tutor_request:
+      subject: への講師申請
+    school_owner_register_a_school:
+      subject: 家元申請

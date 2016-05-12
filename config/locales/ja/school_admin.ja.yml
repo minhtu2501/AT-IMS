@@ -1,0 +1,108 @@
+ja:
+  school_admin:
+    slide_bar:
+      students: 受講者
+    list_teacher: 講師一覧
+    list_classrooms: ルーム一覧
+    rooms:
+      index:
+        lesson: レッスン
+        start_time: 開始時間
+        end_time: 終了時間
+    home:
+      index:
+        content: 家元管理画面です。
+        title: ダッシュボード管理画面
+        center_name: "センター名:"
+        status_center: "センターステイタス:"
+        no_center_available: センターが使用出来ません。
+    center:
+      parameter_setting:
+        submit: "堤出"
+        parameter_label: パラメーター
+        default_setting_label: デフォルト設定
+        actual_setting_label: 設定
+        devision_ratio_label: 報酬分割率
+        aidtower_label: "AIDTOWER"
+        payment_fee_label: 支払い手数料
+        classroom_owner_label: ルームのオーナー
+        tutors_label: 講師
+        introducer_label: 紹介者
+        room_entry_time: "ルームが始まる時間 (分)"
+        lesson_cancellation_period: "講座キャンセル期間 (時間)"
+        lesson_length: "講座時間 (分)"
+        lesson_price_hour: レッスン価格(１時間当たり)
+      form:
+        logo: ロゴ
+        background_image: 背景画像
+        slogan: スローガン
+        desc: 説明
+    lessons:
+      index:
+        title: レッスン
+        name: 講座名
+        tutor_name: 講師名
+        length: レッスン時間
+        price: 料金(円)
+        lesson_current: 受講予定のレッスン
+        lesson_history: レッスン履歴
+        start_time: レッスン開始時刻
+        action: モニタリング
+      lesson:
+        monitoring: モニタリング
+      show:
+        monitoring_rooms: モニタリングルーム
+        back: レッスン一覧へ戻る
+    subjects:
+      index:
+        title: 講座
+        video: 動画レッスン
+        meeting: 個別指導レッスン
+        action: 内容
+      form:
+        create: 作成する
+        submit: 編集する
+        video: 動画レッスン
+        meeting: 個別指導レッスン
+      subject:
+        open: "公開"
+        closed: "非公開"
+        submit: "適用"
+        show: 詳細
+    tutors:
+      index:
+        title: 講師
+        user_name: ユーザー名
+        full_name: 名前
+        email: 連絡
+        registered_at: 登録日時
+        status: ステータス変更
+    students:
+      index:
+        title: 講師
+        user_name: ユーザー名
+        full_name: 名前
+        email: 連絡
+        registered_at: 登録日時
+        status: ステータス
+    profile:
+      index:
+        title: 家元プロフィール編集
+        school_name: 家元名(必須)
+        category: カテゴリー
+        slogan: スローガン(必須)
+        description: 説明(必須)
+        logo: ロゴ
+        background_image: 背景写真
+        update: 更新
+    payment_histories:
+      index:
+        all: 全ての講座
+        title: 決済履歴
+        lesson_date: レッスン日時
+        tutor_name: 講師名
+        subject_name: 講座名
+        lesson_price: レッスン価格(円)
+        tutor_earnings: 講師報酬(円)
+        school_income: 家元報酬(円)
+

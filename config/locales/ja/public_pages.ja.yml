@@ -1,0 +1,38 @@
+ja:
+  subjects:
+    index:
+      title: "講座一覧"
+      sub_title: "講座一覧です"
+      no_results: "入力条件に一致する講座は存在しません。"
+    subject:
+      video: "ビデオ"
+      streaming: "ウェブストリーミング"
+      more: "講座詳細へ"
+      length: "レッスン時間(分)"
+      price: "料金(円)"
+      not_set: "設定しません"
+    show:
+      length: "レッスン時間"
+      minute: "分"
+      cancellation: "* キャンセル可能期間:授業開始%{free_cancellation}時間前まで。"
+      cancellation_not_available: "* キャンセル可能期間:対応できません。"
+      price: "授業料"
+      earning: 講師報酬
+      subject_for_free: "無料"
+      yen: "(円)"
+      teacher_request: "この講座の講師になりたい"
+      subject_request: "講座申請"
+      cancel: "申請をキャンセルする"
+      pending: "申請中"
+      more: "講座詳細へ"
+      create_lesson: "レッスン可能日時を登録する"
+      lesson_title: レッスン一覧
+      lesson_sub_title: レッスン一覧が表示されます
+      buy_video: 動画レッスンを購入する
+    lesson:
+      student: "生徒"
+      tutor_page: 受講ページへ
+      student_page: 受講ページへ
+      cancel: キャンセル
+      request_lesson: レッスン申し込み
+      limit_over: 生徒は3人まで

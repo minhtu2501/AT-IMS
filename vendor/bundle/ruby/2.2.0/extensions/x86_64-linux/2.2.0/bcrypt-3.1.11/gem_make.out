@@ -1,0 +1,19 @@
+current directory: /home/minhtu/AT_IMS/vendor/bundle/ruby/2.2.0/gems/bcrypt-3.1.11/ext/mri
+/home/minhtu/.rvm/rubies/ruby-2.2.3/bin/ruby -r ./siteconf20160511-31699-1tpgn2i.rb extconf.rb
+creating Makefile
+
+current directory: /home/minhtu/AT_IMS/vendor/bundle/ruby/2.2.0/gems/bcrypt-3.1.11/ext/mri
+make "DESTDIR=" clean
+
+current directory: /home/minhtu/AT_IMS/vendor/bundle/ruby/2.2.0/gems/bcrypt-3.1.11/ext/mri
+make "DESTDIR="
+compiling crypt_gensalt.c
+compiling bcrypt_ext.c
+compiling crypt_blowfish.c
+compiling crypt.c
+compiling wrapper.c
+linking shared-object bcrypt_ext.so
+
+current directory: /home/minhtu/AT_IMS/vendor/bundle/ruby/2.2.0/gems/bcrypt-3.1.11/ext/mri
+make "DESTDIR=" install
+/usr/bin/install -m 0755 bcrypt_ext.so ./.gem.20160511-31699-t15gkw

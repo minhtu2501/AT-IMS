@@ -1,0 +1,36 @@
+ja:
+  admin_center:
+    list_teacher: 講師一覧
+    list_classrooms: ルーム一覧
+    rooms:
+      index:
+        lesson: レッスン
+        start_time: 開始時間
+        end_time: 終了時間
+    home:
+      index:
+        title: ダッシュボード管理画面
+        center_name: "センター名:"
+        status_center: "センターステイタス:"
+        no_center_available: センターが使用出来ません。
+    center:
+      parameter_setting:
+        submit: "堤出"
+        parameter_label: パラメーター
+        default_setting_label: デフォルト設定
+        actual_setting_label: 設定
+        devision_ratio_label: 報酬分割率
+        aidtower_label: "AIDTOWER"
+        payment_fee_label: 支払い手数料
+        classroom_owner_label: ルームのオーナー
+        tutors_label: 講師
+        introducer_label: 紹介者
+        room_entry_time: "ルームが始まる時間 (分)"
+        lesson_cancellation_period: "講座キャンセル期間 (時間)"
+        lesson_length: "講座時間 (分)"
+        lesson_price_hour: レッスン価格(１時間当たり)
+      form:
+        logo: ロゴ
+        background_image: 背景画像
+        slogan: スローガン
+        desc: 説明

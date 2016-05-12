@@ -1,0 +1,79 @@
+ja:
+  activerecord:
+    models:
+      user: "ユーザー"
+      student: "生徒"
+      tutor: 講師
+      school: "家元"
+      lesson: "レッスン"
+      school_admin: "家元管理画面"
+
+    attributes:
+      subject:
+        division_ratio: 報酬取り分比率
+        video_url: 動画に
+        photo: 写真に
+        title: 講座名
+        link: URL
+        status: "ステータス"
+      school:
+        id: "ID"
+        name: "家元名"
+        status: "ステータス"
+        description: "説明"
+        slogan: "スローガン"
+        background_image: "背景画像"
+        logo: "ロゴ"
+        division_ratio: "取分比率"
+        category: 'カテゴリー'
+        terms_of_service: 利用規約
+        url_tag: "講師紹介動画URL"
+      category:
+        title: "名前"
+      super_admin:
+        email: "メールアドレス"
+        create_at: 作成日
+        password: 'パスワード'
+        password_confirmation: 'パスワード確認'
+        current_password: 現在のパスワード
+      user:
+        first_name: 名
+        last_name: 姓
+        create_at: 作成日
+        email: "メールアドレス"
+        name: "名前"
+        user_name: "受講者名"
+        avatar: "アバター"
+        background_image: "背景画像"
+        password: 'パスワード'
+        password_confirmation: 'パスワード確認'
+        current_password: 現在のパスワード
+        terms_of_service: 利用規約
+        url_tag: "講師紹介動画URL"
+      school_admin:
+        email: "メールアドレス"
+        school_name: "家元名"
+        password: 'パスワード'
+        password_confirmation: 'パスワード確認'
+        company_name: '代表者名'
+        contact_name: '担当者名'
+        tel: '電話番号'
+      lesson:
+        subject_name: "講座名"
+        school_name: "家元名"
+        start_time: "開始時間"
+        end_time: "終了時間"
+        price: 料金
+        owner: 講師
+        school: 家元
+        students: 生徒
+      credit_card:
+        security_code: "セキュリティコード"
+        number: "クレジットカード番号"
+        expire: "満期"
+    errors:
+      models:
+        credit_card:
+          attributes:
+            number:
+              authorize_failure: "またはセキュリティコードが有効ではありません。"

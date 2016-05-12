@@ -1,0 +1,90 @@
+ja:
+  admin:
+    title: AIDTOWER管理画面
+    payment_history: 決済履歴
+    edit_top_page: トップページ編集
+    school_all: 家元一覧
+    school_pending: 未承認の家元
+    edit_terms: 利用規約編集
+    home:
+      index:
+        title: 'これはAIDTOWERの管理ダッシュボードです。'
+    subjects:
+      index:
+        destroy_success: "講座が削除されました。"
+        subject_name: 講座名
+        school_name: 家元名
+        create_at: 作成日
+    users:
+      index:
+        destroy_success: "ユーザーが削除されました。"
+      user:
+        lock: 非公開
+        unlock: 公開
+    school_admins:
+      list_school_admins: '家元管理者覧'
+      index:
+        create_school_admins: "家元管理者作成"
+      create:
+        success: 学校管理者の作成に成功しました。
+        failed: 学校管理者の作成に失敗しました。
+      update:
+        success: '学校管理者が更新されました。'
+      destroy:
+        success: '学校管理者の削除に成功しました。'
+        failed: '学校管理者の削除に失敗しました。'
+      form:
+        school: 家元を割り振ってください
+        choice_school: 家元を選択してください
+      new:
+        school: 家元
+    schools:
+      list_school: 家元一覧
+      index:
+        create_school: 家元作成
+        open: "凍結解除"
+        closed: "凍結"
+        create_at: 作成日
+      form:
+        logo: ロゴ
+        background_image: 背景画像
+        slogan: スローガン
+        desc: 概要
+        open: "ログイン可"
+        closed: "ログイン不可"
+      school:
+        open: "ログイン可"
+        closed: "ログイン不可"
+    categories:
+      index:
+        create_category: "カテゴリー追加"
+        create_success: "カテゴリーが作成されました。"
+        update_success: "カテゴリーが更新されました。"
+        destroy_success: "カテゴリーが削除されました。"
+    lessons:
+      index:
+        name: 講座名
+        school_name: 家元名
+        length: 時間
+        price: 料金
+        lesson_current: 受講予定のレッスン
+        lesson_history: レッスン履歴
+    top_page:
+      index:
+        more_image: スライドショーに画像を追加
+        remove_image: この画像を削除
+        slideshow: グローバルヘッダー
+        header: ヘッダー
+        image: 画像
+        content: コンテンツ
+        title: タイトル
+        contents: 内容
+        subtitle: サブタイトル
+        background_image: 背景画像
+        footer_image: フッター画像
+        footer: フッター
+        body: 内容
+        display_no: "講師数,講座数,ユーザー数を表示する "
+    payment_histories:
+      index:
+        all: 全ての家元

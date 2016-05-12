@@ -1,0 +1,153 @@
+ja:
+  general:
+    blank_year: "年を選択してください"
+    blank_month: "月を選択してください"
+    delete_confirm: この学校を削除しますか？
+    edit: 編集
+    delete: 削除
+    action: "アクション"
+    center: "センター"
+    school: "家元"
+    subject_header: "講座を探す"
+    school_header: "家元を探す"
+    school_all: 家元一覧
+    school_pending: 未承認の家元
+    subject: "講座"
+    tool: "ツール"
+    select: 選択
+    coming_soon: "We are coming soon"
+    hello: "こんにちは"
+    email: "メールアドレス"
+    placeholder_email: "メールアドレス(必須)"
+    password: "パスワード"
+    placeholder_password: "パスワード(必須)"
+    current_password: 現在のパスワード
+    confirm_password: "パスワード確認"
+    placeholder_confirm_password: "パスワード確認(必須)"
+    register_for_free: "無料で登録する"
+    remember_me: "パスワードを保存する"
+    already_account: "すでにアカウントを持っていますか?"
+    forget_password: "パスワードを忘れた方へ"
+    signin: "ログイン"
+    signout: "ログアウト"
+    signup: "登録"
+    send: "送信する"
+    to_login: "ログインする"
+    login: "ログイン"
+    profile: "プロフィール"
+    list_schools: "学校一覧"
+    list_lessons: "講座一覧"
+    list_rooms: "ルーム一覧"
+    name: "名前"
+    school_name: "家元名"
+    status: "ステータス"
+    category: "カテゴリー"
+    title: "タイトル"
+    start_time: "開始時間"
+    end_time: "終了時間"
+    start_date: 開始日
+    end_date: 終了日
+    room: "ルーム"
+    lesson: "レッスン"
+    video: "ビデオ"
+    meeting: "ウェブストリーミング"
+    confirm_delete: "この管理センターを削除してもいいですか。"
+    search: "検索"
+    photo: "写真"
+    teacher: "先生"
+    student: "生徒"
+    avatar: "アバター"
+    next_lesson: "わたしの次のレッスン"
+    my_lessons: "わたしのレッスン"
+    requests: "リクエスト"
+    show: "表示"
+    monitoring: "モニタリング"
+    parameter_setting: "パラメーター設定"
+    payment_history: "決済履歴"
+    logout: "ログアウト"
+    school_admin: "家元のアドミン"
+    submit: 登録する
+    dashboard: "マイページ"
+    dashboard_back: "マイページへ"
+    cancel: キャンセル
+    slogan: "スローガン"
+    assign_school: 家元にアサインする
+    please_choice_school: 家元を選択してください
+    assign_lesson: レッスンをアサインする
+    please_choice_lesson: レッスンを選択してください
+    please_choice_category: カテゴリーを選択してください
+    edit_profile: プロファイル編集
+    users: 受講者一覧
+    school_owner_sign_up: 家元になりたい
+    school_owner_login: 家元ログイン
+    pending: 承認待ち
+    accepted: 承認
+    no_: 項番
+    leave_room: このルームを削除
+    lock: 凍結
+    unlock: 凍結解除
+    all: 全て
+    first_name: 名
+    last_name: 姓
+    apply: 適用
+    rejected: 拒否
+    length: レッスン時間
+    price: 授業料(円)
+    earning: 講師報酬(円)
+    created_at: 作成日時
+    lesson_current: 最新のレッスン
+    lesson_history: レッスン履歴
+    description: 説明
+    logo: ロゴ
+    background_image: 背景画像
+    update: 更新
+    updated_at: 更新時
+    back: 戻る
+    tutor: 講師
+  dictionary:
+    label_month: "月"
+    label_year: "年"
+    limitless: "無制限"
+  date:
+    abbr_day_names:
+    - 日
+    - 月
+    - 火
+    - 水
+    - 木
+    - 土
+  time:
+    am: a.m.
+    formats:
+      default: "%Y年%m月%d日 %H時%M分"
+      long: "%Y/%m/%d %H:%M"
+      short: "%d %b %H:%M"
+      month_day: '%m月%d日(%a) ー '
+      ymd: "%Y年%m月%d日"
+      ymdHM: "%Y年%m月%d日%H時%M分"
+      onlyDate: "%Y年%m月%d日"
+      onlyHM: "%H時%M分"
+    pm: p.m.
+  errors:
+    format: "%{attribute}%{message}"
+    messages:
+      not_choose_lesson: レッスンが選択されていません。
+      invalid_time_in_room: "にはレッスンを作成することはできません。"
+      time_not_blank: "時間を入力してください。"
+      unauthorized: "アクセス権がありません。"
+      blank_user_pass: "ユーザー名もしくはパスワードを入力してください。"
+      wrong_user_pass: "ユーザー名またはパスワードが正しくありません。"
+      invalid_division_ratio: "が間違っています。合計で100%になるように設定してください。"
+      limited_session: "こちらのアカウントは他のデバイスですでにログインされています。"
+      limited_student_in_lesson: "生徒はすでに上限の3人が参加しています。"
+  time_lesson_invalid: "レッスン時間が正しくありません。レッスンは%{before}に開始し、%{after}に終了します。"
+  room_not_in_school: このルームは学校には存在しません。
+  not_request_to_room: "このルームにリクエストはありません。"
+  teacher_not_accepted: 講師が承認していません。
+  un_request_room_success_free: 無料でリクエストを削除しました。
+  un_request_room_success_not_free: 有料でリクエストを削除しました。
+  un_request_room_not_success: リクエストの削除に失敗しました。
+  choice_school: 家元を選択してください
+  choice_lesson: 'レッスンを選択してください'
+  asiign_for_lesson: レッスンに割り振る
+  asiign_for_school: 家元に割り振る

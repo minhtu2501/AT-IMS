@@ -1,0 +1,25 @@
+en:
+  breadcrumbs:
+    home: "Home"
+    centers: "Centers"
+    schools: "Schools"
+    subjects: "Subjects"
+    lessons: "Lessons"
+    rooms: "Rooms"
+    teachers: "Teachers"
+    about_aidtower: "About"
+    purchase_guide: "Purchase Guide"
+    products: "Products"
+    how_to: "How to"
+    the_aidtower: "The Aidtower"
+    service_intro: "Service Intro"
+    enjoy_aidtower: "Enjoy Aidtower"
+    privacy_policy: "Privacy Policy"
+    user_agent: "User Agent"
+    change_password: "Change password"
+    edit_profile: "Edit profile"
+    dashboard:
+      root: "Dashboard"
+    action:
+      new: "New"
+      edit: "Edit"
